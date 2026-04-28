@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*~
+
+build/
+ffdec_import/
+build_*.gfx
+
+*.package
+
+entree/*
+!entree/.keep
+
+sortie/*
+!sortie/.keep
