@@ -1,9 +1,3 @@
-#  _______                                   _______                         
-# |     __|.----.----.-----.-----.-----.    |    ___|.-----.----.-----.-----.
-# |__     ||  __|   _|  -__|  -__|     |    |    ___||  _  |   _|  _  |  -__|
-# |_______||____|__| |_____|_____|__|__|    |___|    |_____|__| |___  |_____|
-#                                                               |_____|      
-
 # Screen Forge TS4
 
 Screen Forge is an open-source tool for automatically generating **custom loading screens for The Sims 4**.
